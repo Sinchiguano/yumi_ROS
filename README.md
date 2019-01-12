@@ -1,6 +1,6 @@
 # yumi_ROS
 
-![top_page](/INF/Screenshot_from_2019-01-12 16-27-11.png)
+![top_page](/inf/1.png)
 
 
 ## In a nutshell 
