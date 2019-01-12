@@ -13,8 +13,8 @@ from yumi_lib import *
 from yumi_class import MoveGroup,all_close,measurements
 
 #Working range, top view
-x=27.4cm
-y=66.4cm
+#x=27.4cm
+#y=66.4cm
 #Main loop!!!
 def main():
     global homeR
