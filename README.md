@@ -1,7 +1,7 @@
 # yumi_ROS
 
 ![top_page](/inf/1.png)
-
+![top_page](/inf/2.png)
 
 ## In a nutshell 
 
